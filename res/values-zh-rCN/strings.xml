@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"开关机设置"</string>
+    <string name="start_service">"启动服务"</string>
+    <string name="info_title">"设置信息"</string>
+    <string name="no_file">"没有找到文件"</string>
+    <string name="not_set">"没有设置"</string>
+    <string name="brand">"品牌: "<xliff:g id="brand_name">%s</xliff:g></string>
+    <string name="model">"型号: "<xliff:g id="model_name">%s</xliff:g></string>
+    <string name="logo">"LOGO: "<xliff:g id="logo_name">%s</xliff:g></string>
+    <string name="power_on_animation">"开机动画: "<xliff:g id="animation_name">%s</xliff:g></string>
+    <string name="power_down_animation">"关机动画: "<xliff:g id="animation_name">%s</xliff:g></string>
+    <string name="power_on_ring">"开机铃声: "<xliff:g id="ring_name">%s</xliff:g></string>
+    <string name="power_down_ring">"关机铃声: "<xliff:g id="ring_name">%s</xliff:g></string>
+    <string name="select_directory_title">"选择目录"</string>
+    <string name="select_directory">"选择目录"</string>
+    <string name="no_confige_directory">"没有找到配置目录！！！"</string>
+    <string name="encord_error">"文件编码错误！！！"</string>
+    <string name="file_not_found">"没有找到文件！！！"</string>
+    <string name="read_failed">"读取文件失败！！！"</string>
+    <string name="logo_file_too_big">"Logo图片尺寸不对！！！"</string>
+    <string name="power_on_ring_not_legal_file">"开机铃声不是合法的MP3文件！！！"</string>
+    <string name="shut_down_ring_not_legal_file">"关机铃声不是合法的MP3文件！！！"</string>
+    <string name="copy_success">"拷贝文件成功"</string>
+    <string name="copy_fail">"拷贝文件失败！！！"</string>
+    <string name="no_confige_file">"没有找到配置文件！！！"</string>
+    <string name="no_sdcard">"SDCard不存在！！！"</string>
+    <string name="set_success">"设置成功"</string>
+    <string name="set_fail">"设置失败！！！"</string>
+	<string name="disclaimer_title">"免责声明"</string>
+    <string name="disclaimer_message">"\t\t本程序，仅供个人学习、研究，不得用于商业或者其他用途，否则后果自负。如果产生法律问题，本程序概不负责，特此申明，敬请知悉。"</string>
+	<string name="agree">"同意"</string>
+	<string name="cancel">"取消"</string>
+	<string name="fail_title">"设置失败"</string>
+	<string name="fail_message">"\t\t系统服务繁忙，设置失败，再次设置前需要重启手机！"</string>
+	<string name="setting_running">"正在设置，请稍后再试"</string>
+	<string name="brand_size_too_long">"品牌名称过长"</string>
+	<string name="model_size_too_long">"型号名称过长"</string>
+	<string name="restore_factory_settings">"还原出厂设置"</string>
+	<string name="clean_temp_files_settings">"清理临时文件"</string>
+	<string name="clean_complete">"清理完成"</string>
+	<string name="restore_success">"还原成功"</string>
+	
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical" >
+
+    <TextView 
+        android:id="@+id/brand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <TextView 
+        android:id="@+id/model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+        
+    <TextView 
+        android:id="@+id/log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <TextView 
+        android:id="@+id/power_on_ring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <TextView 
+        android:id="@+id/power_down_ring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <TextView 
+        android:id="@+id/power_on_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <TextView 
+        android:id="@+id/power_down_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

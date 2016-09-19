@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"開關機設置"</string>
+    <string name="start_service">"啟動服務"</string>
+    <string name="info_title">"設置資訊"</string>
+    <string name="no_file">"沒有找到檔"</string>
+    <string name="not_set">"沒有設置"</string>
+    <string name="brand">"品牌: "<xliff:g id="brand_name">%s</xliff:g></string>
+    <string name="model">"型號: "<xliff:g id="model_name">%s</xliff:g></string>
+    <string name="logo">"LOGO: "<xliff:g id="logo_name">%s</xliff:g></string>
+    <string name="power_on_animation">"開機動畫: "<xliff:g id="animation_name">%s</xliff:g></string>
+    <string name="power_down_animation">"關機動畫: "<xliff:g id="animation_name">%s</xliff:g></string>
+    <string name="power_on_ring">"開機鈴聲: "<xliff:g id="ring_name">%s</xliff:g></string>
+    <string name="power_down_ring">"關機鈴聲: "<xliff:g id="ring_name">%s</xliff:g></string>
+    <string name="select_directory_title">"選擇目錄"</string>
+    <string name="select_directory">"選擇目錄"</string>
+    <string name="no_confige_directory">"沒有找到配置目錄！！！"</string>
+    <string name="encord_error">"檔編碼錯誤！！！"</string>
+    <string name="file_not_found">"沒有找到檔！！！"</string>
+    <string name="read_failed">"讀取檔失敗！！！"</string>
+    <string name="logo_file_too_big">"Logo圖片尺寸不對！！！"</string>
+    <string name="power_on_ring_not_legal_file">"開機鈴聲不是合法的MP3檔！！！"</string>
+    <string name="shut_down_ring_not_legal_file">"關機鈴聲不是合法的MP3檔！！！"</string>
+    <string name="copy_success">"拷貝檔成功"</string>
+    <string name="copy_fail">"拷貝檔失敗！！！"</string>
+    <string name="no_confige_file">"沒有找到設定檔！！！"</string>
+    <string name="no_sdcard">"SDCard不存在！！！"</string>
+    <string name="set_success">"設置成功"</string>
+    <string name="set_fail">"設置失敗！！！"</string>
+    <string name="disclaimer_title">"免責聲明"</string>
+    <string name="disclaimer_message">"\t\t本程式，僅供個人學習、研究，不得用於商業或者其他用途，否則後果自負。 如果產生法律問題，本程式概不負責，特此申明，敬請知悉。"</string>
+	<string name="agree">"同意"</string>
+	<string name="cancel">"取消"</string>
+    <string name="fail_title">"設置失敗"</string>
+	<string name="fail_message">"\t\t系統服務繁忙，設置失敗，再次設置前需要重啟手機！"</string>
+	<string name="setting_running">"正在設置，請稍後再試"</string>
+	<string name="brand_size_too_long">"品牌名稱過長"</string>
+	<string name="model_size_too_long">"型號名稱過長"</string>
+	<string name="restore_factory_settings">"還原出廠設置"</string>
+	<string name="clean_temp_files_settings">"清理暫存檔案"</string>
+	<string name="clean_complete">"清理完成"</string>
+	<string name="restore_success">"還原成功"</string>
+
+</resources>

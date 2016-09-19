@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="transparent">#0000</color>
+    <color name="list_layout_background">#ffd0d0d0</color>
+    <drawable name="listview_divider">#ffaaaaaa</drawable>
+    <drawable name="drawable_grid_view_item_press">#66666666</drawable>
+    <drawable name="drawable_grid_view_item_normal">#00ffffff</drawable>
+
+</resources>

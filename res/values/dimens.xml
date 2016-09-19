@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer name="columns_number">3</integer>
+    <dimen name="horizontal_spacing">8dp</dimen>
+    <dimen name="vertical_spacing">8dp</dimen>
+    <integer name="preview_picture_width">180</integer>
+    <integer name="preview_picture_height">260</integer>
+</resources>

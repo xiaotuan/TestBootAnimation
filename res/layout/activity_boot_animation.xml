@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_layout_background"
+    android:padding="8dp" >
+    
+    <!-- android:textDirection="locale" -->
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/empty_msg"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFC0C0C0"
+        android:visibility="gone" />
+
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="@dimen/horizontal_spacing"
+        android:numColumns="@integer/columns_number"
+        android:verticalSpacing="@dimen/vertical_spacing" />
+
+</FrameLayout>
