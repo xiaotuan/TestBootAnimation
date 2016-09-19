@@ -1,0 +1,2 @@
+# TestBootAnimation
+通过拷贝SDCARD上的开关机动画文件到指定位置来使用该文件作为手机的开关机动画
